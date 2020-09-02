@@ -1,0 +1,2 @@
+# exercise
+small code snippets
